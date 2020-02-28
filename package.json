@@ -1,0 +1,13 @@
+{
+	"name": "MealDeals",
+	"version": "1.0.0",
+	"description": "A program to aid in finding the right meal plan",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "Kyle DePace",
+	"license": "ISC"
+}
